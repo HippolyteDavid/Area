@@ -1,6 +1,3 @@
-
-![EPITECH](https://studyadv.s3.amazonaws.com/production/schools/covers/000/005/919/original/Enseigne_Epitech_2.png)
-
 # Area
 
 - [Server Documentation](server/README.md)
